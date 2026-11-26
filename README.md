@@ -182,21 +182,12 @@ python3 app/gui.py
 
 ---
 
-## 7. Rapports d'Audit, Soutenance et Outils de Présentation
+## 7. Rapports d'Audit
 
 Tous les documents officiels pour l'évaluation et la soutenance sont réunis dans le dossier `report/` :
 
 1. **Rapport d'Audit & Sécurité Officiel** :
    - Fichier PDF complet : `report/CryptoVault — Rapport d'analyse de sécurité et d'audit cryptographique.pdf`
-
-2. **Présentation de Soutenance (Diapositives)** :
-   - Présentation PowerPoint officielle : `report/CryptoVault_Presentation.pptx`
-   - Présentation OpenDocument : `report/CryptoVault_Presentation.odp`
-
-3. **Diaporama Interactif Autonome & Notes de Soutenance** :
-   - Diaporama HTML autonome : `report/slideshow.html` (ouvrable directement dans Firefox, Chrome ou Edge sans aucune dépendance).
-   - Notes orales détaillées : `report/notes_de_soutenance_et_diapositives.md` (guide de présentation mot à mot pour l'orateur).
-
 ---
 
 ## 8. Fichiers et Données Sensibles Exclus du Dépôt
